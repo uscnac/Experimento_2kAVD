@@ -8,4 +8,4 @@ Considere um servidor web sob diferentes configurações. Os principais parâmet
 (145, 144, 146) \
 (133, 132, 134) \
 (140, 139, 141) \
-(130, 128, 129) \
+(130, 128, 129) 
